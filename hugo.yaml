@@ -1,0 +1,14 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: My New Hugo Site
+footer:
+  contact:
+    - url: "/imprint"
+      text: Imprint
+    - url: "/data-protection"
+      text: Data Protection
+    - url: "/faq"
+      text: FAQ
+module:
+  imports:
+    - path: github.com/eljoth/eljoth-theme

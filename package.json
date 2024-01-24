@@ -1,0 +1,16 @@
+{
+  "comments": {
+    "dependencies": {},
+    "devDependencies": {
+      "@fontsource/fira-sans": "github.com/eljoth/eljoth-theme",
+      "foundation-sites": "github.com/eljoth/eljoth-theme"
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@fontsource/fira-sans": "^5.0.18",
+    "foundation-sites": "^6.8.1"
+  },
+  "name": "test",
+  "version": "0.1.0"
+}
